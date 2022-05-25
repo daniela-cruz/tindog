@@ -1,2 +1,1 @@
-# tindog
-Responsive CSS tinder for dogs ;)
+TinDog Starting Files
